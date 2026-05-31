@@ -21,8 +21,8 @@ Tratamento básico de erros em requisições
 
 ## Prints do trabalho
 
-![cards](cards.png)
+![cards](./public/cards.png)
 
-![detalhes](detalhes.png)
+![detalhes](./public/detalhes.png)
 
-![console](console.png)
+![console](./public/console.png)
