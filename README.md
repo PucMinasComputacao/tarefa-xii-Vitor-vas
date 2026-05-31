@@ -16,14 +16,13 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Vítor Augusto de Souza  
+- Matricula: 908612
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![cards](cards.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![detalhes](detalhes.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![console](console.png)
